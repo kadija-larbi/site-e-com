@@ -15,7 +15,7 @@ include_once ROOT .'views/includes/header.php';
     
 <?php include_once ROOT .'views/includes/navbar.php';?>
 <h1>Index</h1>
-
+    <p>quelque chose </p>
 
 
 
