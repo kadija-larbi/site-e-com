@@ -17,6 +17,8 @@ include_once ROOT .'views/includes/header.php';
 <h1>Index</h1>
     <p>quelque chose </p>
     <p>quelque chose </p>
+        <p>quelque chose </p>
+
 
 
 
